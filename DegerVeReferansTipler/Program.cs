@@ -11,7 +11,7 @@ namespace DegerVeReferansTipler
             int sayi1 = 10;
             int sayi2 = 30;
             sayi1 = sayi2;
-            sayi2 = 65;
+            sayi2 = 65; 
             //sayi1 ?? 30
 
             Console.WriteLine(sayi1);
@@ -23,6 +23,7 @@ namespace DegerVeReferansTipler
             //sayilar1[0] ?? 999
 
             Console.WriteLine(sayilar1[0]);
+
 
 
         }
